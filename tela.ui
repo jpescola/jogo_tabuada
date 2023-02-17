@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string notr="true">Jogo da Soma</string>
+   <string notr="true">Jogo da Tabuada</string>
   </property>
   <widget class="QPushButton" name="btn1">
    <property name="geometry">
